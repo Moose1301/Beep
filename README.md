@@ -1,5 +1,5 @@
 # Beep
-Batch file designed to make a beep sound. Turn your volume up all the way and beep in teamspeak!
+The most annoying thing ever made by Microsoft. Turn your volume all the way up and beep in teamspeak!
 
 # Usage
 Press any key that isn't "0" to beep, to close press "0".
